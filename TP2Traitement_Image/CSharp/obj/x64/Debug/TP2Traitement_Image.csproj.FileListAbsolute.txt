@@ -1,0 +1,8 @@
+C:\Users\HENRI_VANLEMMENS\Documents\MIL CoPilot Workspaces\TP2Traitement_Image\CSharp\bin\x64\Debug\TP2Traitement_Image.exe
+C:\Users\HENRI_VANLEMMENS\Documents\MIL CoPilot Workspaces\TP2Traitement_Image\CSharp\bin\x64\Debug\TP2Traitement_Image.pdb
+C:\Users\HENRI_VANLEMMENS\Documents\MIL CoPilot Workspaces\TP2Traitement_Image\CSharp\bin\x64\Debug\Matrox.MatroxImagingLibrary.dll
+C:\Users\HENRI_VANLEMMENS\Documents\MIL CoPilot Workspaces\TP2Traitement_Image\CSharp\bin\x64\Debug\Matrox.MatroxImagingLibrary.xml
+C:\Users\HENRI_VANLEMMENS\Documents\MIL CoPilot Workspaces\TP2Traitement_Image\CSharp\obj\x64\Debug\TP2Traitement_Image.csproj.AssemblyReference.cache
+C:\Users\HENRI_VANLEMMENS\Documents\MIL CoPilot Workspaces\TP2Traitement_Image\CSharp\obj\x64\Debug\TP2Traitement_Image.csproj.CoreCompileInputs.cache
+C:\Users\HENRI_VANLEMMENS\Documents\MIL CoPilot Workspaces\TP2Traitement_Image\CSharp\obj\x64\Debug\TP2Traitement_Image.exe
+C:\Users\HENRI_VANLEMMENS\Documents\MIL CoPilot Workspaces\TP2Traitement_Image\CSharp\obj\x64\Debug\TP2Traitement_Image.pdb

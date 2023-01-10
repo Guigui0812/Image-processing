@@ -1,0 +1,7 @@
+C:\Users\HENRI_VANLEMMENS\source\repos\TP1Traitement_Image\TP1Traitement_Image\bin\Debug\TP1Traitement_Image.exe.config
+C:\Users\HENRI_VANLEMMENS\source\repos\TP1Traitement_Image\TP1Traitement_Image\bin\Debug\TP1Traitement_Image.exe
+C:\Users\HENRI_VANLEMMENS\source\repos\TP1Traitement_Image\TP1Traitement_Image\bin\Debug\TP1Traitement_Image.pdb
+C:\Users\HENRI_VANLEMMENS\source\repos\TP1Traitement_Image\TP1Traitement_Image\obj\Debug\TP1Traitement_Image.csproj.AssemblyReference.cache
+C:\Users\HENRI_VANLEMMENS\source\repos\TP1Traitement_Image\TP1Traitement_Image\obj\Debug\TP1Traitement_Image.csproj.CoreCompileInputs.cache
+C:\Users\HENRI_VANLEMMENS\source\repos\TP1Traitement_Image\TP1Traitement_Image\obj\Debug\TP1Traitement_Image.exe
+C:\Users\HENRI_VANLEMMENS\source\repos\TP1Traitement_Image\TP1Traitement_Image\obj\Debug\TP1Traitement_Image.pdb

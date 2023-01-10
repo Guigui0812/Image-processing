@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CodeSettings xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <IncludeWin32Config>false</IncludeWin32Config>
+  <IncludeSlaveFiles>false</IncludeSlaveFiles>
+  <StateUniqueIdentifier>160000</StateUniqueIdentifier>
+  <LastModificationByCopilot>2022-12-07T08:40:47.955333+01:00</LastModificationByCopilot>
+  <Language>CSharp</Language>
+  <CodePath>C:\Users\HENRI_VANLEMMENS\Documents\MIL CoPilot Workspaces\TP2Traitement_Image\CSharp\TP2Traitement_Image.cs</CodePath>
+  <Files>
+    <string>C:\Users\HENRI_VANLEMMENS\Documents\MIL CoPilot Workspaces\TP2Traitement_Image\CSharp\TP2Traitement_Image.csproj</string>
+    <string>C:\Users\HENRI_VANLEMMENS\Documents\MIL CoPilot Workspaces\TP2Traitement_Image\CSharp\TP2Traitement_Image.sln</string>
+    <string>C:\Users\HENRI_VANLEMMENS\Documents\MIL CoPilot Workspaces\TP2Traitement_Image\CSharp\Properties\AssemblyInfo.cs</string>
+  </Files>
+</CodeSettings>
